@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Saw
+  - Mace
+  - MLcol
+  - MRcol
+  - turn
+  - Dead
+  - Coin
+  - door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enviroment
+  - isGround
+  - Enemy
+  - Health
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 580420139
+    locked: 0
+  - name: Enviroment
+    uniqueID: 1894754665
+    locked: 0
+  - name: Tiles
+    uniqueID: 1037657137
+    locked: 0
+  - name: Coin
+    uniqueID: 1913336651
+    locked: 0
+  - name: Enemy
+    uniqueID: 1729378263
+    locked: 0
+  - name: Character
+    uniqueID: 4239414149
+    locked: 0
+  - name: Health
+    uniqueID: 77099919
+    locked: 0
